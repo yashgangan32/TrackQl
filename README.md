@@ -1,0 +1,1 @@
+TrackQL is a modern expense tracking application powered by GraphQL
